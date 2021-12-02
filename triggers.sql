@@ -1,7 +1,7 @@
-drop table sales;
-drop table customers;
-drop table shops;
-drop table sales_audit;
+DROP TABLE sales;
+DROP TABLE customers;
+DROP TABLE shops;
+DROP TABLE sales_audit;
 
 -- select * from customers;
 
